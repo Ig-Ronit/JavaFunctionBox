@@ -2,7 +2,20 @@
 
 Functionality:
 
-This Java code offers a collection of diverse functions, allowing users to perform various calculations and tasks through a user-friendly menu interface.
+This Java program contains a collection of functions encapsulated within a class named test_fun1. Each function serves a specific purpose, ranging from mathematical calculations to control flow operations.
+It Allows users to perform various calculations and tasks through a user-friendly menu interface.
+
+printAverage(): Computes and prints the average of three input numbers.
+printSumofOdd(): Calculates and prints the sum of the first 'n' odd numbers.
+printGreater(): Determines and prints the greater of two input numbers.
+circumference(): Computes and displays the circumference of a circle given the radius.
+eligibleForVote(): Checks if a person is eligible to vote based on their age and prints the result.
+infiniteLoop(): Demonstrates an infinite loop with a message printed infinitely.
+findRaiseValue(): Calculates and prints the value of a number raised to a certain power.
+fibonacci(): Generates and prints the Fibonacci series up to a specified limit.
+findGCD(): Finds and prints the greatest common divisor (GCD) of two input numbers.
+findSigns(): Reads a series of numbers from the user and counts the number of positive, negative, and zero values.
+The main() function serves as the entry point for the program, where users can choose which function to execute based on their input. It provides a menu-driven interface for selecting the desired functionality.
 
 Key Features:
 
